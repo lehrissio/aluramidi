@@ -18,6 +18,7 @@
 ## 💻 Projeto
 Para visualizar a última vesão do projeto clique abaixo:
 <br>
+<br>
 Visite o [projeto](https://aluramidi-taupe-sigma.vercel.app/) online.
 
 <br>
