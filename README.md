@@ -1,4 +1,4 @@
-<h1 align="center">Aluramidi</h1>
+<h1 align="center">Alura Midi</h1>
 <p align="center"> Projeto desenvolvido durante a <a href="https://cursos.alura.com.br/formacao-javascript-front-end-v687029">Formação de Javascript</a> da plataforma de estudos Alura, onde foi colocado em prática conhecimentos sobre manipulação da tag audio HTML através da liguagem Javascript! 💻🌍 </p>
 <br>
 <br>
