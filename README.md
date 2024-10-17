@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <a target="_blank" href="https://aluramidi-taupe-sigma.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/ed550ec3-f299-403b-bbee-7592a70ef415">    
+    <img src="https://github.com/user-attachments/assets/3607a45a-3361-4d7e-91eb-a13d640062af">   
   </a>
 </div>
 <br>
